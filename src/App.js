@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <p>PV Charging is an iOS app to sync your PV system with your EV charging</p>
+      <p>PV Charging is an iOS app to sync your PV system with your EV charging.</p>
         <p>App under construction, stay tuned</p>
         <img src="pic1.jpeg" alt="" width="500"/>
       
